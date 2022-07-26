@@ -1,2 +1,3 @@
-# ftdc-terraform-workshop
-FinTech DevCon workshop repository for, "Hashicorp Vault, Terraform, and CI/CD for the fintech industry".
+# Welcome to the workshop
+
+## This repository is a starting point for the FinTech DevCon workshop, "Hashicorp Vault, Terraform, and CI/CD for the fintech industry".
